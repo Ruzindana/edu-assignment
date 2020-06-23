@@ -1,0 +1,14 @@
+body {
+  background-color: gray;
+  background-size: cover;
+}
+
+body img {
+  height: 200px;
+}
+
+body h1 {
+  color: cyan;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
